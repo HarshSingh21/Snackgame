@@ -153,3 +153,4 @@ function createText(text, x, y, textAlign = "start", fontSize = 20 ) {
     context.textAlign = textAlign;
     context.fillText(text, x, y)
 }
+
